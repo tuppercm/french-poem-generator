@@ -74,6 +74,10 @@ footer {
   padding: 20px;
 }
 
+.poem strong {
+  color: #885df1;
+}
+
 .submit-button {
   background-color: #885df1;
   border: none;
