@@ -84,3 +84,13 @@ footer {
   padding: 14px 25px;
   width: 150px;
 }
+
+.blink {
+  animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
