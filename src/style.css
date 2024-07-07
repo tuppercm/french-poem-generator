@@ -43,6 +43,11 @@ footer {
   margin-bottom: 30px;
   padding: 30px;
 }
+
+.hidden {
+  display: none;
+}
+
 .hint {
   font-size: 14px;
   font-style: italic;
